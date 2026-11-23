@@ -33,7 +33,7 @@
 |:--:|:--:|:--:|:--:|
 | **US$ 3.96 tn**<br><sub>2025</sub> | **7.6%**<br><sub>2025</sub> | **US$ 2,760**<br><sub>2025</sub> | **7.0% (2026)**<br><sub>IMF WEO</sub> |
 
-<sub>Last refreshed: 23 Nov 2026, 12:51 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
+<sub>Last refreshed: 23 Nov 2026, 12:55 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
 
 ---
 
@@ -80,7 +80,7 @@
 <sub>Manufacturing, industrial output, structure of the economy and infrastructure.</sub>
 
 - 2026-11-23 · [The New Era of Indian Agriculture and Allied Sectors](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5) — _www.pib.gov.in_
-- 2026-11-23 · [Media Invitations](https://news.google.com/rss/articles/CBMieEFVX3lxTFBBTVQ2eFpMQjd6X3p4V2JaNndMNC1XOGFhSmxaMW9vVXN0RnZldllPNUdqZk5GRGFxcDJVbGdDdlFyaUo5YW5xTEd3TlFYLWF2RzExMGdWaE9ud25Kd3haV2U0SkpUaUU0R1N2YnVXak5odjBBX0NqTg?oc=5) — _pib.gov.in_
+- 2026-11-22 · [Union Minister of Commerce and Industry Shri Piyush Goyal Chairs Interaction with Tea Industry Stakeholders at Kurseong…](https://news.google.com/rss/articles/CBMifEFVX3lxTE5EdDVjRU42TFo5VTZWVmJmenRIODY5VHVoYjdlcmVRa25WbkFscTdtZHFWbDRWcGVqQnFTMzNTUG51aFRhaG1uMDhiM0VzUXhYLWFsSWZsWk5ubTh5MkRqYXBKXzRFSGVpMXZkUVNsRUFidUFlcjZOMWktdUE?oc=5) — _pib.gov.in_
 - 2026-11-23 · [PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pobC1rLVptdXhSMFIwTEk4QXFRUmxJNWt0ZTM5TU5BLWRnWEFnTmZZbldwYmlzZEpJdXdVdkJrOVJvNW55Z1kzU0VEYlI0WWFZSTdtOUFiOUkzUFliSTZoNGZZejlwWTd0cHVYZGtSSlFCNURUb0hFbEpxVk1fdXROSl9oaUd0YkZxd0pGSUdEa1JReUVGcnE1VnZVTlJ4NExCd2tyZF9WdERBU0E?oc=5) — _DD News_
 - 2026-11-23 · [Film Industry Veterans Debate Role of Film Schools at 57th IFFI](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXVrdnFzamRuSlljRS1mdUgwZmlkMDh2MkRVRDRyWUdXMHlRbXBiYWNETjVlRVJvVmhuR1NRNVVfMXAwMjFVU2VIbWhGNGs2Vk9MRGpoSWUxbW9rMUxCNk1PUUduTkJfWW5aMlpFYjVXdHBiZlc3MUZXS01hNDFMWlRGS2FXQ0wtaGlndkYxOWtDUHc?oc=5) — _DD News_
 
@@ -102,7 +102,7 @@
 <sub>Education spending, enrolment, literacy — and where to apply for scholarships.</sub>
 
 - 2026-11-23 · [Ayush Pavilion Emerges as a Major Attraction at India International Trade Fair 2026](https://news.google.com/rss/articles/CBMia0FVX3lxTFBYZUpiU3pPLVhsb3Z2X3hsMDJJMEdsbmxUZmRkVmMwVHJBSTFkZkM2WW1vVC1WTnhYZ3pfdERtZE4tZk9pdnBVaUNqYW5IWW4zbUdEaHRza0hIWEc4Qml2WUdkcFg4bV9ST0R3?oc=5) — _www.pib.gov.in_
-- 2026-11-23 · [Untitled](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzltY0FXdHduSDdYYWtCN3BLemtnZ1pFZ05pWXE0LTN1U0dkSWM1SXA4ZDkxS0dOYks1NXRTUWpoLUZpYnZ1cWJlZmJZdnZBZ2lXVGhtdGhCNW5mRUVnR0paQWY4cGd3NGNja3JtYW9xeXN4am5HRUMyMUhhR2FZckJMaVViQQ?oc=5) — _pib.gov.in_
+- 2026-11-22 · [Union Education Minister Pralhad Joshi Lays Foundation Stone for Phase II Construction at IIM Bodh Gaya](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mOFhfUzIwZEx0a1NPLUt4c2QwMWIxeDhpWTIzX0gtZ0FPSERRWVpueHQzclpRQ3BUX3J1bThtaTc5SEFLSGdhcHRDZ0d4VWlqb1Ezb1REVFNydl94YmdjbDlkOFBhRDAt?oc=5) — _www.pib.gov.in_
 - 2026-11-23 · [PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pobC1rLVptdXhSMFIwTEk4QXFRUmxJNWt0ZTM5TU5BLWRnWEFnTmZZbldwYmlzZEpJdXdVdkJrOVJvNW55Z1kzU0VEYlI0WWFZSTdtOUFiOUkzUFliSTZoNGZZejlwWTd0cHVYZGtSSlFCNURUb0hFbEpxVk1fdXROSl9oaUd0YkZxd0pGSUdEa1JReUVGcnE1VnZVTlJ4NExCd2tyZF9WdERBU0E?oc=5) — _DD News_
 - 2026-11-23 · [Film Industry Veterans Debate Role of Film Schools at 57th IFFI](https://news.google.com/rss/articles/CBMikwFBVV95cUxNOXVrdnFzamRuSlljRS1mdUgwZmlkMDh2MkRVRDRyWUdXMHlRbXBiYWNETjVlRVJvVmhuR1NRNVVfMXAwMjFVU2VIbWhGNGs2Vk9MRGpoSWUxbW9rMUxCNk1PUUduTkJfWW5aMlpFYjVXdHBiZlc3MUZXS01hNDFMWlRGS2FXQ0wtaGlndkYxOWtDUHc?oc=5) — _DD News_
 
@@ -126,7 +126,7 @@
 - 2026-11-23 · [The New Era of Indian Agriculture and Allied Sectors](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUZxUkRCX05waVZTZThYT1g1a2h3NXFOTGlfSFFTS0lTTVBDcTl5eXhQZW03aHNzY0E2R0U1VWs3VXNzN2hYRkRpdTJWeGx6MXB0VEpPMGI2dkxzdmg5bmJnSFZhdDRKODlmLW1hb0wzbDh2N3lQQzNwaXRKWXhBbmlWY09ia2FJRXJvTW1Wd2NSMjhkcnYxTEhn?oc=5) — _www.pib.gov.in_
 - 2026-11-23 · [Nayi Chetna 5.0 to be Launched on 25 November](https://news.google.com/rss/articles/CBMia0FVX3lxTE12d0V0dnA2VHNyUF9kUnQtZm1uWUdCaEZTY1lPamRNcjA4MmxTWlFCZXNHZzk0d3V2WUlrTUVIYkVzMnl6LVdiV1JnZmlra1BJNFBWaWJaWjdDQkxkblAxMTk5ejh0QXBVanlZ?oc=5) — _pib.gov.in_
 - 2026-11-23 · [PM Modi to unveil development projects worth Rs 34,470 crore in Bihar on November 21](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pobC1rLVptdXhSMFIwTEk4QXFRUmxJNWt0ZTM5TU5BLWRnWEFnTmZZbldwYmlzZEpJdXdVdkJrOVJvNW55Z1kzU0VEYlI0WWFZSTdtOUFiOUkzUFliSTZoNGZZejlwWTd0cHVYZGtSSlFCNURUb0hFbEpxVk1fdXROSl9oaUd0YkZxd0pGSUdEa1JReUVGcnE1VnZVTlJ4NExCd2tyZF9WdERBU0E?oc=5) — _DD News_
-- 2026-11-23 · [Govt to launch fifth edition of Nayi Chetna gender campaign on November 25, focus on women’s economic empowerment \| DD…](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUhjMUV1WjRydTN4bHl3Xzl4djJIMURKcVlJdXJZcHlhMGg5Zi0zbzdWOEFUWVZleEh4YUNtNF84Mlgtd0RWdW5QVmt6LUw5RElEaTFjMThFbDdvcHlrdEVnTDEteXA3NEJwRzVraldIZmdLODRibWJYaC1XN01wVWZnMVc1MUhIcWJjZjI3c2QwMDk2RHRMQU9WTDZMSFNUT1YxZUxURmxMX2tsV1BsaVRKZjg1bTBVeVJuZTdJR05haGFmeVkxZHVEYUlyQktJZGkw?oc=5) — _DD News_
+- 2026-11-23 · [Punjab Records 6,874 Stubble-Burning Cases, Rs 11.94 Crore Environmental Compensation Imposed](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1BhSVIzRk1JWUdRdlJLbTVBMzBmY0NfdzJQU2tOMW9EYmx0V1J0ZnZicWVWdFVqYjZXNDFaR0JleW83S3pXUnhCYkRsV1FiUk9KLVZTM1dSaGNzXzB3YlpITkdSYTZWUkdLLXhZRklSTF9VWGFITTkzbnZSclpxdHMwdVV3S0U5bl84cWgtZTlXWjF3LXV2blMwLUh3NjBzZ1d2VVphdnVCNktYVUtDN1JXVzQzdUxu?oc=5) — _DD News_
 
 [Open the Food & Agriculture tab →](https://subhadeep998.github.io/India-Development-Dashboard/#food)
 
