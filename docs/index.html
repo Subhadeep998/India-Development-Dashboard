@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>India Development Dashboard — economy, industry, environment & people</title>
+<meta name="description" content="Live, free dashboard of India's GDP, national income, industry, environment, education, culture and food — with daily news and official government releases.">
+<meta property="og:title" content="India Development Dashboard">
+<meta property="og:description" content="GDP, industry, environment, scholarships, culture and food — live data and daily news.">
+<meta property="og:image" content="https://raw.githubusercontent.com/Subhadeep998/India-Development-Dashboard/main/assets/social-preview.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%230D0F12'/><rect x='6' y='9' width='20' height='4' fill='%23FF9933'/><rect x='6' y='14' width='20' height='4' fill='%23F3EFE6'/><rect x='6' y='19' width='20' height='4' fill='%234CC38A'/></svg>">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js" defer></script>
+<style>
+  :root{--bg:#0D0F12;--panel:#15181D;--panel2:#1B1F26;--line:rgba(243,239,230,.12);--text:#F3EFE6;--muted:#A3A9B4;
+        --saffron:#FF9933;--green:#4CC38A;--teal:#00CCBB;--gold:#E6B85C;--red:#F2463A}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif}
+  a{color:var(--teal);text-decoration:none} a:hover{text-decoration:underline}
+  .wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+  header{border-bottom:1px solid var(--line);background:linear-gradient(180deg,rgba(255,153,51,.08),transparent)}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:22px 0 10px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:12px}
+  .flag{width:34px;height:24px;border-radius:4px;overflow:hidden;display:grid;grid-template-rows:1fr 1fr 1fr;flex:none}
+  .flag i:nth-child(1){background:var(--saffron)}.flag i:nth-child(2){background:#F3EFE6}.flag i:nth-child(3){background:#138808}
+  h1{font-size:22px;margin:0;letter-spacing:-.3px} h1 em{font-family:Georgia,serif;font-weight:400;color:var(--saffron)}
+  .meta{color:var(--muted);font-size:13px} .meta b{color:var(--green)}
+  nav{display:flex;gap:6px;overflow-x:auto;padding:8px 0 0;scrollbar-width:none} nav::-webkit-scrollbar{display:none}
+  nav button{all:unset;cursor:pointer;white-space:nowrap;padding:10px 14px;border-radius:10px 10px 0 0;color:var(--muted);font-weight:600;font-size:14px;border-bottom:3px solid transparent}
+  nav button:hover{color:var(--text)} nav button.on{color:var(--text);border-bottom-color:var(--saffron);background:rgba(255,153,51,.07)}
+  nav button:focus-visible{outline:2px solid var(--teal)}
+  main{padding:26px 0 50px}
+  .lead{color:var(--muted);margin:0 0 18px}
+  .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:22px}
+  .kpi{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+  .kpi .l{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.6px}
+  .kpi .v{font-size:26px;font-weight:700;letter-spacing:-.5px;margin:4px 0 2px}
+  .kpi .s{font-size:12px;color:var(--muted)} .up{color:var(--green)} .down{color:var(--red)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:14px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .card h3{margin:0 0 2px;font-size:15px} .card .u{color:var(--muted);font-size:12px;margin-bottom:8px}
+  .chart{position:relative;height:220px}
+  h2{font-size:18px;margin:30px 0 12px;display:flex;align-items:center;gap:8px}
+  .pol{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+  .pol a{display:block;background:var(--panel2);border:1px solid var(--line);border-left:4px solid var(--saffron);border-radius:12px;padding:12px 14px;color:var(--text)}
+  .pol a:hover{text-decoration:none;border-color:var(--saffron)} .pol b{display:block;margin-bottom:3px} .pol span{color:var(--muted);font-size:13px}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:14px} @media(max-width:800px){.cols{grid-template-columns:1fr}.grid{grid-template-columns:1fr}}
+  ul.news{list-style:none;margin:0;padding:0} ul.news li{padding:10px 0;border-bottom:1px solid var(--line)} ul.news li:last-child{border:0}
+  ul.news .d{color:var(--muted);font-size:12px} ul.news a{color:var(--text);font-weight:500}
+  .tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:99px;background:rgba(76,195,138,.14);color:var(--green);margin-left:6px;vertical-align:middle}
+  .empty{color:var(--muted);font-style:italic}
+  footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;padding:22px 0 40px}
+  .note{background:rgba(230,184,92,.08);border:1px solid rgba(230,184,92,.3);border-radius:10px;padding:10px 14px;color:var(--gold);font-size:13px;margin-top:14px}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand"><span class="flag" aria-hidden="true"><i></i><i></i><i></i></span>
+        <div><h1>India Development <em>Dashboard</em></h1><div class="meta">Live data · daily news · official sources — <span id="upd">loading…</span></div></div>
+      </div>
+      <div class="meta"><a href="https://github.com/Subhadeep998/India-Development-Dashboard">⭐ Star on GitHub</a> · <a href="https://www.subhadeepaditya.in">Subhadeep Aditya</a></div>
+    </div>
+    <nav id="tabs" role="tablist" aria-label="Dashboard sections"></nav>
+  </div>
+</header>
+<main class="wrap" id="view" aria-live="polite"><p class="empty">Loading the latest data…</p></main>
+<footer class="wrap">
+  Data: <a href="https://data.worldbank.org/country/india">World Bank Open Data</a> (annual indicators) ·
+  <a href="https://www.imf.org/external/datamapper/profile/IND">IMF World Economic Outlook</a> (forecasts) ·
+  <a href="https://pib.gov.in">Press Information Bureau</a>, DD News, All India Radio, MyGov and RBI (official sources only; headlines and links).<br>
+  Refreshed automatically twice a day. Independent educational project — not affiliated with the Government of India, the World Bank or the IMF.
+  Scheme details change: always confirm on the official portal.
+</footer>
+<script>
+const PAL=['#FF9933','#4CC38A','#00CCBB','#E6B85C','#F2463A','#A78BFA','#F3EFE6','#60A5FA'];
+let D=null, charts=[];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const num=(v,d)=>v==null?'—':Number(v).toLocaleString('en-IN',{maximumFractionDigits:d,minimumFractionDigits:d});
+const dig=v=>Math.abs(v)>=1000?0:Math.abs(v)>=10?1:2;
+
+function kpiHTML(i){
+  const s=i.series, [y,v]=s[s.length-1], p=s.length>1?s[s.length-2][1]:null;
+  let ch='';
+  if(p!=null){const d=v-p, cls=d>=0?'up':'down'; ch=`<span class="${cls}">${d>=0?'▲':'▼'} ${num(Math.abs(d),dig(d))}</span> vs ${s[s.length-2][0]}`;}
+  return `<div class="kpi"><div class="l">${esc(i.name)}</div><div class="v">${num(v,dig(v))}</div><div class="s">${esc(i.unit)} · ${y}<br>${ch}</div></div>`;
+}
+function newsHTML(list,official){
+  if(!list||!list.length) return '<p class="empty">No items in this window — check back after the next update.</p>';
+  return '<ul class="news">'+list.map(n=>`<li><div class="d">${esc(n.date)} · ${esc(n.source)}${official?'<span class="tag">official</span>':''}</div><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></li>`).join('')+'</ul>';
+}
+function lineChart(el,i,color,extra){
+  const pts=i.series.filter(p=>p[0]>=1995);
+  const ds=[{label:i.name,data:pts.map(p=>({x:p[0],y:p[1]})),borderColor:color,backgroundColor:color+'22',fill:true,tension:.25,pointRadius:0,pointHoverRadius:4,borderWidth:2.2}];
+  if(extra) ds.push(extra);
+  charts.push(new Chart(el,{type:'line',data:{datasets:ds},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'nearest',intersect:false},
+    plugins:{legend:{display:!!extra,labels:{color:'#A3A9B4',boxWidth:12}},tooltip:{callbacks:{label:c=>`${c.dataset.label}: ${num(c.parsed.y,dig(c.parsed.y))} (${c.parsed.x})`}}},
+    scales:{x:{type:'linear',ticks:{color:'#A3A9B4',callback:v=>v,stepSize:5},grid:{color:'rgba(243,239,230,.06)'}},y:{ticks:{color:'#A3A9B4'},grid:{color:'rgba(243,239,230,.08)'}}}}}));
+}
+function overview(){
+  const find=c=>D.tabs.flatMap(t=>t.indicators).find(i=>i.code===c);
+  const pick=['NY.GDP.MKTP.CD','NY.GDP.MKTP.KD.ZG','NY.GNP.PCAP.CD','FP.CPI.TOTL.ZG','NV.IND.MANF.ZS','EG.FEC.RNEW.ZS'].map(find).filter(Boolean);
+  const fc=(D.imf||[]).filter(p=>p[0]>=new Date().getFullYear());
+  let h=`<p class="lead">India's development in one place — pick a tab above for the full picture, policies and daily news on each topic.</p><div class="kpis">`+pick.map(kpiHTML).join('');
+  if(fc.length) h+=`<div class="kpi"><div class="l">IMF growth forecast</div><div class="v">${num(fc[0][1],1)}%</div><div class="s">real GDP · ${fc[0][0]}<br>${fc[1]?`then ${num(fc[1][1],1)}% in ${fc[1][0]}`:''}</div></div>`;
+  h+=`</div><div class="grid"><div class="card"><h3>GDP</h3><div class="u">trillion US$, current prices</div><div class="chart"><canvas id="ov1"></canvas></div></div>
+      <div class="card"><h3>Real GDP growth</h3><div class="u">% per year · dashed = IMF projection</div><div class="chart"><canvas id="ov2"></canvas></div></div></div>`;
+  const off=D.tabs.flatMap(t=>(t.pib||[]).slice(0,2).map(n=>({...n,source:`${t.icon} ${t.title} · ${n.source}`}))).sort((a,b)=>b.date.localeCompare(a.date)).slice(0,10);
+  h+=`<h2>🏛️ Latest official releases (PIB)</h2><div class="card">${newsHTML(off,true)}</div>`;
+  $('#view').innerHTML=h;
+  const g=find('NY.GDP.MKTP.CD'), gr=find('NY.GDP.MKTP.KD.ZG');
+  if(g) lineChart($('#ov1'),g,PAL[0]);
+  if(gr){const last=gr.series[gr.series.length-1][0];
+    const proj=(D.imf||[]).filter(p=>p[0]>=last).map(p=>({x:p[0],y:p[1]}));
+    lineChart($('#ov2'),gr,PAL[1],proj.length?{label:'IMF projection',data:proj,borderColor:PAL[3],borderDash:[6,4],pointRadius:3,fill:false,borderWidth:2}:null);}
+}
+function tabView(t){
+  let h=`<p class="lead">${esc(t.icon)} ${esc(t.blurb)}</p>`;
+  if(t.indicators.length){
+    h+='<div class="kpis">'+t.indicators.map(kpiHTML).join('')+'</div><div class="grid">';
+    t.indicators.forEach((i,k)=>{h+=`<div class="card"><h3>${esc(i.name)}</h3><div class="u">${esc(i.unit)} · World Bank ${esc(i.code)}</div><div class="chart"><canvas id="c${k}"></canvas></div></div>`;});
+    h+='</div>';
+  }
+  h+=`<h2>🏛️ Government schemes & policies</h2><div class="pol">`+t.policies.map(p=>`<a href="${esc(p.url)}" target="_blank" rel="noopener"><b>${esc(p.name)}</b><span>${esc(p.about)}</span></a>`).join('')+'</div>';
+  h+=`<div class="note">Scheme rules, amounts and deadlines change. Always confirm on the official portal before applying.</div>`;
+  h+=`<div class="cols"><div><h2>🏛️ Official releases (PIB)</h2><div class="card">${newsHTML(t.pib,true)}</div></div><div><h2>📻 Official news <span class="tag">DD News · AIR · MyGov · RBI</span></h2><div class="card">${newsHTML(t.news,true)}</div></div></div>`;
+  $('#view').innerHTML=h;
+  t.indicators.forEach((i,k)=>lineChart($('#c'+k),i,PAL[k%PAL.length]));
+}
+function show(id){
+  charts.forEach(c=>c.destroy()); charts=[];
+  document.querySelectorAll('nav button').forEach(b=>{const on=b.dataset.id===id;b.classList.toggle('on',on);b.setAttribute('aria-selected',on);});
+  const t=D.tabs.find(x=>x.id===id);
+  t?tabView(t):overview();
+  document.title=(t?t.title+' — ':'')+'India Development Dashboard';
+}
+function route(){show((location.hash||'#overview').slice(1));}
+async function boot(){
+  try{
+    const r=await fetch('data/dashboard.json',{cache:'no-store'}); D=await r.json();
+  }catch(e){$('#view').innerHTML='<p class="empty">Could not load data right now — please refresh in a minute.</p>';return;}
+  $('#upd').innerHTML='updated <b>'+esc(D.updated||'—')+'</b>';
+  const tabs=[{id:'overview',title:'Overview',icon:'🇮🇳'}].concat(D.tabs);
+  $('#tabs').innerHTML=tabs.map(t=>`<button role="tab" data-id="${t.id}">${t.icon} ${esc(t.title)}</button>`).join('');
+  document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{location.hash=b.dataset.id;});
+  const wait=()=>window.Chart?route():setTimeout(wait,50); wait();
+  window.addEventListener('hashchange',route);
+}
+boot();
+</script>
+</body>
+</html>

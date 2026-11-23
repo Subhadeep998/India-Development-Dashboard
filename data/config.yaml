@@ -1,0 +1,121 @@
+# India Development Dashboard — configuration.
+# Indicators come from the World Bank Open Data API (free, no key); forecasts from the IMF DataMapper API.
+# News: OFFICIAL sources only, found via Google News RSS (headlines + links): PIB releases, plus DD News,
+# All India Radio (newsonair.gov.in), MyGov and RBI. No general media.
+
+tabs:
+  - id: economy
+    title: Economy
+    icon: "📈"
+    blurb: GDP, national income, growth, inflation and investment.
+    indicators:
+      - [NY.GDP.MKTP.CD, GDP, "US$", 1e12, "trillion US$"]
+      - [NY.GDP.MKTP.KD.ZG, GDP growth, "%", 1, "% per year"]
+      - [NY.GNP.MKTP.CD, Gross national income (GNI), "US$", 1e12, "trillion US$"]
+      - [NY.GNP.PCAP.CD, GNI per capita (Atlas), "US$", 1, "US$ per person"]
+      - [NY.GDP.PCAP.CD, GDP per capita, "US$", 1, "US$ per person"]
+      - [FP.CPI.TOTL.ZG, Consumer price inflation, "%", 1, "% per year"]
+      - [BX.KLT.DINV.CD.WD, Foreign direct investment (net inflows), "US$", 1e9, "billion US$"]
+      - [NE.EXP.GNFS.ZS, Exports of goods & services, "%", 1, "% of GDP"]
+    news: 'GDP OR economy OR inflation OR budget OR "monetary policy"'
+    pib: 'GDP OR economy OR finance OR budget'
+    policies:
+      - [Union Budget, "Annual budget documents and speeches", "https://www.indiabudget.gov.in"]
+      - [Reserve Bank of India, "Monetary policy, inflation and financial data", "https://www.rbi.org.in"]
+      - [MoSPI — National Accounts, "Official GDP and GVA estimates", "https://www.mospi.gov.in"]
+      - [GST Council, "Goods and Services Tax policy", "https://gstcouncil.gov.in"]
+
+  - id: industry
+    title: Industry
+    icon: "🏭"
+    blurb: Manufacturing, industrial output, structure of the economy and infrastructure.
+    indicators:
+      - [NV.IND.TOTL.ZS, Industry share of GDP, "%", 1, "% of GDP"]
+      - [NV.IND.MANF.ZS, Manufacturing share of GDP, "%", 1, "% of GDP"]
+      - [NV.SRV.TOTL.ZS, Services share of GDP, "%", 1, "% of GDP"]
+      - [SL.IND.EMPL.ZS, Employment in industry, "%", 1, "% of total employment"]
+      - [EG.ELC.ACCS.ZS, Access to electricity, "%", 1, "% of population"]
+    news: 'manufacturing OR industry OR PLI OR "Make in India" OR semiconductor OR exports'
+    pib: 'industry OR manufacturing OR PLI OR "Make in India"'
+    policies:
+      - [Make in India, "Flagship manufacturing and investment initiative", "https://www.makeinindia.com"]
+      - [Production Linked Incentive (PLI) schemes, "Incentives across 14 key manufacturing sectors", "https://www.investindia.gov.in/production-linked-incentives-schemes-india"]
+      - [Startup India, "Recognition, funding and support for startups", "https://www.startupindia.gov.in"]
+      - [PM Gati Shakti, "National master plan for multimodal infrastructure", "https://pmgatishakti.gov.in"]
+      - [India Semiconductor Mission, "Chip and display manufacturing programme", "https://ism.gov.in"]
+
+  - id: environment
+    title: Environment
+    icon: "🌿"
+    blurb: Emissions, forests, clean energy and air quality.
+    indicators:
+      - [EN.GHG.CO2.MT.CE.AR5, CO₂ emissions (excl. land use), "Mt", 1, "million tonnes CO₂"]
+      - [EG.FEC.RNEW.ZS, Renewable energy share, "%", 1, "% of final energy use"]
+      - [AG.LND.FRST.ZS, Forest area, "%", 1, "% of land area"]
+      - [EN.ATM.PM25.MC.M3, PM2.5 air pollution exposure, "µg/m³", 1, "µg/m³ (annual mean)"]
+    news: 'environment OR pollution OR climate OR "renewable energy" OR solar OR forest'
+    pib: 'environment OR climate OR "renewable energy" OR pollution'
+    policies:
+      - [National Clean Air Programme (NCAP), "City action plans to cut particulate pollution", "https://prana.cpcb.gov.in"]
+      - [Mission LiFE, "Lifestyle for Environment — citizen action for sustainability", "https://missionlife-moefcc.nic.in"]
+      - [National Green Hydrogen Mission, "Green hydrogen production and use", "https://mnre.gov.in"]
+      - ["PM Surya Ghar: Muft Bijli Yojana", "Rooftop solar for households", "https://pmsuryaghar.gov.in"]
+      - [PM-KUSUM, "Solar pumps and solar power for farmers", "https://pmkusum.mnre.gov.in"]
+
+  - id: education
+    title: Education & Scholarships
+    icon: "🎓"
+    blurb: Education spending, enrolment, literacy — and where to apply for scholarships.
+    indicators:
+      - [SE.XPD.TOTL.GD.ZS, Public spending on education, "%", 1, "% of GDP"]
+      - [SE.TER.ENRR, Tertiary (higher-education) enrolment, "%", 1, "% gross"]
+      - [SE.SEC.ENRR, Secondary-school enrolment, "%", 1, "% gross"]
+      - [SE.ADT.LITR.ZS, Adult literacy rate, "%", 1, "% of people 15+"]
+    news: 'scholarship OR education OR students OR UGC OR NEP OR AICTE'
+    pib: 'scholarship OR education OR students OR UGC'
+    policies:
+      - [National Scholarship Portal, "One portal for central and many state scholarships — apply here first", "https://scholarships.gov.in"]
+      - [Central Sector Scheme of Scholarship (PM-USP), "Merit scholarships for college and university students (via NSP)", "https://scholarships.gov.in"]
+      - [PM Vidyalaxmi, "Collateral-free education loans for students at quality institutions", "https://pmvidyalaxmi.co.in"]
+      - [INSPIRE (DST), "Scholarships and fellowships for science students and researchers", "https://online-inspire.gov.in"]
+      - [Prime Minister's Research Fellowship, "PhD fellowships at top institutes", "https://pmrf.in"]
+      - [AICTE Pragati & Saksham, "Scholarships for girls and specially-abled students in technical education", "https://www.aicte-india.org"]
+      - [National Education Policy 2020, "Framework for school and higher-education reform", "https://www.education.gov.in"]
+      - [SWAYAM, "Free online courses with credit transfer", "https://swayam.gov.in"]
+
+  - id: culture
+    title: Arts & Culture
+    icon: "🎭"
+    blurb: Heritage, the arts, cultural scholarships and tourism.
+    indicators:
+      - [ST.INT.ARVL, International tourist arrivals, "people", 1e6, "million arrivals"]
+      - [ST.INT.RCPT.CD, International tourism receipts, "US$", 1e9, "billion US$"]
+    news: 'culture OR heritage OR arts OR museum OR tourism OR festival'
+    pib: 'culture OR heritage OR arts OR tourism'
+    policies:
+      - [Ministry of Culture, "Schemes, grants and cultural institutions", "https://www.indiaculture.gov.in"]
+      - [CCRT Cultural Talent Search Scholarship, "Scholarships for young artists aged 10–14", "https://ccrtindia.gov.in"]
+      - [Sangeet Natak Akademi, "Music, dance and drama — awards and support", "https://www.sangeetnatak.gov.in"]
+      - [Lalit Kala Akademi, "Visual arts — exhibitions, scholarships and awards", "https://lalitkala.gov.in"]
+      - [Indira Gandhi National Centre for the Arts, "Research and documentation of Indian arts", "https://ignca.gov.in"]
+      - [Archaeological Survey of India, "Monuments and heritage sites", "https://asi.nic.in"]
+
+  - id: food
+    title: Food & Agriculture
+    icon: "🌾"
+    blurb: Food security, farm output, nutrition and farmer support.
+    indicators:
+      - [AG.YLD.CREL.KG, Cereal yield, "kg/ha", 1, "kg per hectare"]
+      - [AG.PRD.FOOD.XD, Food production index, "index", 1, "index (2014–2016 = 100)"]
+      - [NV.AGR.TOTL.ZS, Agriculture share of GDP, "%", 1, "% of GDP"]
+      - [SN.ITK.DEFC.ZS, Prevalence of undernourishment, "%", 1, "% of population"]
+    news: '"food security" OR agriculture OR farmers OR FSSAI OR ration OR MSP'
+    pib: 'food OR agriculture OR farmers OR nutrition'
+    policies:
+      - [National Food Security Act, "Legal right to subsidised foodgrains", "https://nfsa.gov.in"]
+      - [PM Garib Kalyan Anna Yojana, "Free foodgrains for NFSA beneficiaries", "https://dfpd.gov.in"]
+      - [One Nation One Ration Card, "Use your ration card anywhere in India", "https://nfsa.gov.in"]
+      - [PM-POSHAN, "Hot cooked meals in government schools", "https://pmposhan.education.gov.in"]
+      - [PM-KISAN, "Income support of ₹6,000 a year to farmer families", "https://pmkisan.gov.in"]
+      - [Eat Right India (FSSAI), "Safe and healthy food movement", "https://eatrightindia.gov.in"]
+      - [e-NAM, "National online market for farm produce", "https://enam.gov.in"]

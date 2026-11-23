@@ -1,0 +1,39 @@
+name: Daily update
+
+on:
+  schedule:
+    # Two runs a day, away from GitHub's busy midnight-UTC hour: if one is delayed
+    # or dropped, the other catches up. Re-running is harmless.
+    - cron: "31 21 * * *"   # 03:01 IST
+    - cron: "11 2 * * *"    # 07:41 IST backup
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/daily.yml", "scripts/build.py", "data/config.yaml", "data/README.template.md"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.2
+      - name: Fetch data and official news, redraw charts
+        run: python scripts/build.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: daily update $(date -u +%F)"
+          git push
