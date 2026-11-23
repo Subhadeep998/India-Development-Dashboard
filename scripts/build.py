@@ -32,6 +32,7 @@ IST = NOW + dt.timedelta(hours=5, minutes=30)
 SITE = "https://subhadeep998.github.io/India-Development-Dashboard/"
 # Official government news sources only (no general media):
 # DD News and All India Radio are the public broadcasters; MyGov and RBI are official portals.
+JUNK = re.compile(r"(?i)^(untitled|all news|news archive|blog ?description|home|latest news|press release)|archive$|^page \\d")
 OFFICIAL_SITES = ["ddnews.gov.in", "newsonair.gov.in", "mygov.in", "rbi.org.in"]
 
 
@@ -70,7 +71,10 @@ def gnews(query, days, limit):
             date = d.astimezone(dt.timezone(dt.timedelta(hours=5, minutes=30))).date().isoformat()
         except Exception:
             date = ""
-        items.append({"title": " ".join(title.split()), "link": it.findtext("link") or "", "source": src, "date": date})
+        title = " ".join(title.split())
+        if len(title.split()) < 5 or JUNK.search(title):
+            continue  # skip index pages, "Untitled", archives and other non-articles
+        items.append({"title": title, "link": it.findtext("link") or "", "source": src, "date": date})
     items.sort(key=lambda x: x["date"], reverse=True)
     seen, out = set(), []
     for n in items:
