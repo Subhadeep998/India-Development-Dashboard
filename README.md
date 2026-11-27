@@ -33,7 +33,7 @@
 |:--:|:--:|:--:|:--:|
 | **US$ 3.96 tn**<br><sub>2025</sub> | **7.6%**<br><sub>2025</sub> | **US$ 2,760**<br><sub>2025</sub> | **7.0% (2026)**<br><sub>IMF WEO</sub> |
 
-<sub>Last refreshed: 27 Nov 2026, 09:12 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
+<sub>Last refreshed: 27 Nov 2026, 16:17 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
 
 ---
 
@@ -68,10 +68,10 @@
 
 <sub>GDP, national income, growth, inflation and investment.</sub>
 
+- 2026-11-27 · [Rs 1,05,155 crore of gross GST revenue collected in the month of October 2020](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaDBObmhDV3ZMWFBndGlsMXd2a00wdHJ1NmE2cEVIajZ0Znl5Znc1Zm1kRm1XdmFJQnJwSzd6Y0ZoZGFpdUt6bFVEcXZDeWhsNi1jX0I1WktjQVZiUWRtS3NZTnVxeUtzMzJyRDJWTG1Cb0p1NEdZanpCOXlXUms5WTlLb2NvaG1iZ21zT21sVFNUNDlfamtQeVlCVkpvdHdMT3hoRDhVbmxza2U1cjdvb0tWbTUxM3VNZEVNXzNkSmhqZktNYXNUOUthZHFCV3JaN29HaTRnVVJGcXNUd2VGd1A1QVBuUkR6THlj?oc=5) — _www.pib.gov.in_
 - 2026-11-27 · [Small and Medium Enterprises Growth Fund](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm03VEc3TWpSYXFDaGxKWUh0WGJvaTJjd0hIT2V6NnZUeXdBUkVRSkpHaURNajdGdF9BRmtfNW5HMW1NZ3pNRFc5RU9qOFBhdjhxdE8yTW1YUUpmVmFUQTYweGZjbTB3WmcwaTc4aUNTdmJmS0UwYm1tYVc0SlRhVlBRYjdtbnZLMHlDcmswNnJqdlNTVWVwNlpR?oc=5) — _pib.gov.in_
-- 2026-11-27 · [Manufacturing Momentum:Building a Self-Reliant India](https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% \| Akashvani News](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5) — _News On AIR_
-- 2026-11-27 · [World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5) — _News On AIR_
+- 2026-11-27 · [Finance Minister Concludes Pre-Budget Consultations for Union Budget 2027-28](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXBQSEIzcnZsaTdOSkM0bTNXakRMS211eGM3bTYxV0ptZ1NWbHAwNWZfeVk0Z3BuTWt4T0RpNF9ZeEU1OTRpZHJ1dUoxeW9TcndzcElSMFlSNW96cmZ0eDFZV29CTWpTVmNIU3poRGVTS2pqNmt3M0ZnRDBxTWs1M2s5LTl0aXBPR1czeC1LT2RXV1ExMmJjSlpwenRWbVlyODl2Tg?oc=5) — _DD News_
+- 2026-11-27 · [India Retains Third Spot in Lowy’s Asia Power Index 2026, PM Modi Ranked Most Effective Regional Leader](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpudjFpM2VkVmVXdHBwWHBVZ0JSQkJtNDIzZWVQRzQzbXlVTzVUT2hKN2k1NHpNWlhYRHpBbk9SLXU1X1o5cExtcGJHLTl4NXRqVVRpUGZMdTFQdTBzUlczUVJwLWt1RUo2bldwR2p0S05jb1hINDJVWWl2YjNSQklLSnRaNVZBeGx3OFZPWllSMXBUWGh4SDhIS25TZG1iV2k3UXk4V250ajJLZFc5ZDZCWHl5S2xGa3AwaGJJU05yVTJ4M1E?oc=5) — _DD News_
 
 [Open the Economy tab →](https://subhadeep998.github.io/India-Development-Dashboard/#economy)
 
@@ -79,10 +79,10 @@
 
 <sub>Manufacturing, industrial output, structure of the economy and infrastructure.</sub>
 
+- 2026-11-27 · [India’s Growth Story Remains Strong, Resilient and Trustworthy Amid Global Uncertainties: Union Minister of Commerce an…](https://news.google.com/rss/articles/CBMia0FVX3lxTE5fb2Q0aFJNdVhSalRtaG56b2pSTUlhSXVPbUw4N3NIUFM2Rlc2R25YcmtJUVgyRVhEVi0tTXMtdFZqRTRiUzh4RDVkQWNHSExiVllscmN1U1ctb1lJTjhKQlFYdWdvOHFJeWE0?oc=5) — _www.pib.gov.in_
 - 2026-11-27 · [Manufacturing Momentum:Building a Self-Reliant India](https://news.google.com/rss/articles/CBMidkFVX3lxTFBvRmtvLV9MbC1nX2RudWdiZ2xQUnpCRmtTTU0xNkF2eV96Zi1kUUhkVjlrMWNGUkVKZzZXRUdEQjN0eGZRS3AxSm1BWC0tbnVHOXU2LUJDNlR1eDVpY1B0N09Ga01xUG9XSzVRejNpOHRvREdBS3c?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [Small and Medium Enterprises Growth Fund](https://news.google.com/rss/articles/CBMimgFBVV95cUxOdm03VEc3TWpSYXFDaGxKWUh0WGJvaTJjd0hIT2V6NnZUeXdBUkVRSkpHaURNajdGdF9BRmtfNW5HMW1NZ3pNRFc5RU9qOFBhdjhxdE8yTW1YUUpmVmFUQTYweGZjbTB3WmcwaTc4aUNTdmJmS0UwYm1tYVc0SlRhVlBRYjdtbnZLMHlDcmswNnJqdlNTVWVwNlpR?oc=5) — _pib.gov.in_
-- 2026-11-27 · [6th Edition of ‘Creative Minds of Tomorrow’ concludes at IFFI in Goa](https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9Kbm9yMldJdTgwVnVpa0tWZXpHd3hJMHRkRGE1aXJGR19vbWR1R2pHdmw2Qi1OWS03NGdlYVJuMmtMYmt5bWJMLVRVWk5hcmZzeWVCS2Y1X3NBbTlJVWVkeWkxZ3RnclBFYzkwTUFqZXQtZDhBdXVWWDJINGlnWGRVUnI0eTFCVVlmMFRwNTlDRGQyOHRTMnhydlZqWTBIdW5KcFVyaWtObmw0MDNlS1FrYUdvckZXUHZYMUJkMkJ1YW5LVTBV?oc=5) — _News On AIR_
-- 2026-11-27 · [Union Minister Ashwini Vaishnaw to visit Tamil Nadu on Nov 26](https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXhQZ3d5WFlhVHBvZzdmdEF2REdyb0Y4YjBFTS1pZlRrRDhzY21wTVptUVphZExiTEItSUpHT1NWTTNmd3VlM0dsb0NXYnlEOWIyMDcxVldOM2VSYnUzeXlPM2NzS2NTSGxFZXVZbS1VbThXbTFLcy1sRGh3cjRTbnVKM2tKQVF3SjhwVXFkNmU?oc=5) — _News On AIR_
+- 2026-11-27 · [Finance Minister Concludes Pre-Budget Consultations for Union Budget 2027-28](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXBQSEIzcnZsaTdOSkM0bTNXakRMS211eGM3bTYxV0ptZ1NWbHAwNWZfeVk0Z3BuTWt4T0RpNF9ZeEU1OTRpZHJ1dUoxeW9TcndzcElSMFlSNW96cmZ0eDFZV29CTWpTVmNIU3poRGVTS2pqNmt3M0ZnRDBxTWs1M2s5LTl0aXBPR1czeC1LT2RXV1ExMmJjSlpwenRWbVlyODl2Tg?oc=5) — _DD News_
+- 2026-11-27 · [India Retains Third Spot in Lowy’s Asia Power Index 2026, PM Modi Ranked Most Effective Regional Leader](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpudjFpM2VkVmVXdHBwWHBVZ0JSQkJtNDIzZWVQRzQzbXlVTzVUT2hKN2k1NHpNWlhYRHpBbk9SLXU1X1o5cExtcGJHLTl4NXRqVVRpUGZMdTFQdTBzUlczUVJwLWt1RUo2bldwR2p0S05jb1hINDJVWWl2YjNSQklLSnRaNVZBeGx3OFZPWllSMXBUWGh4SDhIS25TZG1iV2k3UXk4V250ajJLZFc5ZDZCWHl5S2xGa3AwaGJJU05yVTJ4M1E?oc=5) — _DD News_
 
 [Open the Industry tab →](https://subhadeep998.github.io/India-Development-Dashboard/#industry)
 
@@ -90,10 +90,10 @@
 
 <sub>Emissions, forests, clean energy and air quality.</sub>
 
-- 2026-11-26 · [Chennai Sorting Division conducts Walkathon as part of Swachhata Pakhwada 2026](https://news.google.com/rss/articles/CBMiaEFVX3lxTE91X3NPVVpIQkw0d0pIdGR4LXRLcTBXTGg5U2x1LUNCV0ctaTBmaUg4U3ZjUWVEZUpGQTFNN2JYUnlHTHRmVzNRVGotc2Zsa0VucXdwQzBIWWJ3MUdrMkxoYzFpYmhialhT?oc=5) — _www.pib.gov.in_
-- 2026-11-26 · [PM to Inaugurate Bharat Renewable Energy Summit & Expo 2026 on 2nd November](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkNUEtSEpIdDZHdkpfSm1MSEpEeHVjZS1xVUtYblNMWGFfdWFlWXd4emUzXzZGTGV2eFQ5RlBxTjVWNEEzSTRLQ1AxclNqc3RldXdSaVlZd2FRMURtTmgyWlhQQmVudWVmdVpKd2lBX3VBdXFqNERkaEs3U3M?oc=5) — _pib.gov.in_
-- 2026-11-27 · [World Bank raises India’s growth forecast from 6.3 to 6.6 percent for current financial year](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzJsaXdFWEo5UmtPT2tCT25pWkplN0NwYy1iWVlnUWlaal8yb0FURUpjeXJoS0JFR2pxT0FpdnZ4UHM5ZE13a05ueE9fMFQ4dUlUUzJGelJBZGRRRDViZFBJS0NvSkg0YlZ2N0pZUmdGMi1fSlliakpBVXlVcFVxdHJJSkpEMEdOdGFNcGdqaUExVEc5OXhkdlVsbEZhNGpaOWczT2tTaVc2T3ktX3A5S2lWYllkX3F6?oc=5) — _News On AIR_
-- 2026-11-26 · [India Wins Visitors’ Lion for Best National Participation at Venice Art Biennale 2026](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmwxM2NDUFdSaHoyV2d6VHBhX1I2b1VHUmJFVGxpeGJHeXdOZXRvdmxoS1BPQ1hpdkhoYWJEYm9JazR2aWFBV1ZXNllPX0ZRVDdaVkthNER0SGo0V2VuNzJfNE5Od3VvWXNSeWNEd0c1RjBSbG9iWUVqM21QWXloNWJobkdnWWQ4WWltUUJRUDI5NTl0d2lUMlQyNDdJUmNkcWpqdmdpVy1zTHRiZmVr?oc=5) — _DD News_
+- 2026-11-27 · [India’s Renewable Energy Journey: Powering a Cleaner Future](https://news.google.com/rss/articles/CBMifEFVX3lxTE1YMkhNLUFqcUc0d3VxaDlweW9lQVRzdEFwd3h0bmJyZHhjQk54MlYtV2xEazRES0NMSlNrZk9HLVRCRUpWSjRDdHdjbTdHandWZUt5clk1SlFvTlFwY3hnS2cyTURMU3hGSTBLQ1owY3pQd1pzOHBGSmsxVWY?oc=5) — _www.pib.gov.in_
+- 2026-11-27 · [STPI Inaugurates its 75th Centre in Bareilly to Strengthen Uttar Pradesh’s IT/ITeS and Startup Ecosystem](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wb1FkQ3VmWG5MSWR6aTB0dUJTUE03alp1TTMzZjFNMDFZMWp1Qk85aFBSVDlja3FUQXpNSHlIeE9VbnpFR2VkdzUzZXd5M1ozVi12VGZLSnh5MG8xaDVIbHNjOGUzYlEza3hFUW1VX0RIekJnS2M3Tlk0VQ?oc=5) — _pib.gov.in_
+- 2026-11-27 · [Finance Minister Concludes Pre-Budget Consultations for Union Budget 2027-28](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXBQSEIzcnZsaTdOSkM0bTNXakRMS211eGM3bTYxV0ptZ1NWbHAwNWZfeVk0Z3BuTWt4T0RpNF9ZeEU1OTRpZHJ1dUoxeW9TcndzcElSMFlSNW96cmZ0eDFZV29CTWpTVmNIU3poRGVTS2pqNmt3M0ZnRDBxTWs1M2s5LTl0aXBPR1czeC1LT2RXV1ExMmJjSlpwenRWbVlyODl2Tg?oc=5) — _DD News_
+- 2026-11-27 · [India Retains Third Spot in Lowy’s Asia Power Index 2026, PM Modi Ranked Most Effective Regional Leader](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpudjFpM2VkVmVXdHBwWHBVZ0JSQkJtNDIzZWVQRzQzbXlVTzVUT2hKN2k1NHpNWlhYRHpBbk9SLXU1X1o5cExtcGJHLTl4NXRqVVRpUGZMdTFQdTBzUlczUVJwLWt1RUo2bldwR2p0S05jb1hINDJVWWl2YjNSQklLSnRaNVZBeGx3OFZPWllSMXBUWGh4SDhIS25TZG1iV2k3UXk4V250ajJLZFc5ZDZCWHl5S2xGa3AwaGJJU05yVTJ4M1E?oc=5) — _DD News_
 
 [Open the Environment tab →](https://subhadeep998.github.io/India-Development-Dashboard/#environment)
 
@@ -101,10 +101,10 @@
 
 <sub>Education spending, enrolment, literacy — and where to apply for scholarships.</sub>
 
-- 2026-11-26 · [Manipur University Marks Constitution Day as Vice-Chancellor Leads Reading of the Preamble](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxblY3aFFIeDdIRUhtM0pTNlhuMHowcnJoRURnT0lQTW9PUWZscHd0Ql9PV2xwWGxuS1BZR2Zlb3NyUWtGTUl6Y1JBeVY1Sk9zdHdyNE9FQ0hNajBxZEdxX3F0MVh5QTZr?oc=5) — _www.pib.gov.in_
-- 2026-11-26 · [NIPER Hyderabad to Confer Degrees on 225 Graduating Students at its 14th Convocation Ceremony](https://news.google.com/rss/articles/CBMie0FVX3lxTE1mdVp4ZTFkN2hYdExLdGhQMmJ1ZkU2eHozMk9ndHpxOWJiMXVVQ254Yno4U0lVa04wV0VTdkdJNll2UHB3OGVicjRHREFqbzF1YktObFJOZVJOSEEwQkhwUm9OWGVjaUJJdkdRa1BBQ0pOQmdaM3lhdnFqTQ?oc=5) — _pib.gov.in_
-- 2026-11-27 · [IIT Madras invites registrations for January 2027 batch of School Connect Programme](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlAxak54Q05laDVDM21ueXl5SDh1aWZOUTRnMGplVERQM3ZiM1FkZUUzZzczejZnOG9wR3BwN2o3akdQcnNyR2NUTllLenp5TGZ4N2l0UU5VMUdFTkduUDNtYmo3VlpQemJ4M3ZJank5QlJTcmJ4azhheEFMS1lfNVJFR0l6N3AzUUFVWHJyaHBYaHM5UkRVV1JabjVlN1F6SkprV1VQYUtqQXNTanc?oc=5) — _News On AIR_
-- 2026-11-27 · [EAM Jaishankar says, India-European Union FTA will come into force soon to provide new dynamism in the relationship](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSmxrR192RG5ZdVpJYmFMd1NKeF9CMWxqeElSTFNmREtpb05qb2pnY1hVdWtpM1dCQVFZaGltTXFCNzkxNkpUdExfbkt5dDhYZWlDQUdDUGtjc2xHT2FEeGFfNHhqX29ac0xSZTFnMXdMbE9BWjhXOWdrS3FuTTRjbTBMSHAwNEF0UDhxT0pKcjFoMlRpTlhiN2VUNHgzaGFZOWl1bDZGRHU3ejNjRDVBdGtuRXJacjVTeXU1V1d5TldvRHRnb2tqN09VMA?oc=5) — _News On AIR_
+- 2026-11-27 · [Press Note Details: Press Information Bureau](https://news.google.com/rss/articles/CBMieEFVX3lxTFBtaG43R1dKZUN5X2k4RzFuTkJqNWpCV2ljU2VvNDdQZVF6cXB6ZjVSSUFjcS10Yl83cXJPZ2F3Q1l3WVkzTmI5dnkxVkdBX3MyUkpkaWtmRTNPdkdPcUFsang1UUl3X1VMQ1Y2dkJMa3hPMTJ5OVZ0VA?oc=5) — _pib.gov.in_
+- 2026-11-27 · [National Overseas Scholarship Scheme for Scheduled Tribe Students](https://news.google.com/rss/articles/CBMia0FVX3lxTE1VcnUwUmtnNDZoZWo1OHNNbWphaEE2Vll0WE56UWtIUERDcHoyby00c3NrVXhhSnBLQ0I4VTBWV2Nrb1ZVMUJjYTBKLVMzUlZzQkJveHdvXy1XU1o1RnZ5SW9xZkJfZ3VoVGRV?oc=5) — _www.pib.gov.in_
+- 2026-11-27 · [Finance Minister Concludes Pre-Budget Consultations for Union Budget 2027-28](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXBQSEIzcnZsaTdOSkM0bTNXakRMS211eGM3bTYxV0ptZ1NWbHAwNWZfeVk0Z3BuTWt4T0RpNF9ZeEU1OTRpZHJ1dUoxeW9TcndzcElSMFlSNW96cmZ0eDFZV29CTWpTVmNIU3poRGVTS2pqNmt3M0ZnRDBxTWs1M2s5LTl0aXBPR1czeC1LT2RXV1ExMmJjSlpwenRWbVlyODl2Tg?oc=5) — _DD News_
+- 2026-11-27 · [India Retains Third Spot in Lowy’s Asia Power Index 2026, PM Modi Ranked Most Effective Regional Leader](https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWpudjFpM2VkVmVXdHBwWHBVZ0JSQkJtNDIzZWVQRzQzbXlVTzVUT2hKN2k1NHpNWlhYRHpBbk9SLXU1X1o5cExtcGJHLTl4NXRqVVRpUGZMdTFQdTBzUlczUVJwLWt1RUo2bldwR2p0S05jb1hINDJVWWl2YjNSQklLSnRaNVZBeGx3OFZPWllSMXBUWGh4SDhIS25TZG1iV2k3UXk4V250ajJLZFc5ZDZCWHl5S2xGa3AwaGJJU05yVTJ4M1E?oc=5) — _DD News_
 
 [Open the Education & Scholarships tab →](https://subhadeep998.github.io/India-Development-Dashboard/#education)
 
@@ -113,9 +113,9 @@
 <sub>Heritage, the arts, cultural scholarships and tourism.</sub>
 
 - 2026-11-27 · [Sacred Relics of Shakyamuni Buddha Arrive at Golden Pagoda, Namsai, Marking the Final Phase of Exposition in Arunachal …](https://news.google.com/rss/articles/CBMifEFVX3lxTE95Y08xSkllXzdkWUc3cjVyRmRRSEJtTmF6SDRJeDVoT1pqU3hjZ0dRWVByeVJvU1RXaExsaFZLSjBaUjhheDhEVzVsd2pzS3Q4ZnlWYnYzZG05MnJwU1BvWkMxdGVtSXh1R3hTdDhBQ2dmS2NYSUp1SjQtNkY?oc=5) — _www.pib.gov.in_
-- 2026-11-26 · [Union Minister for Culture and Tourism Shri Gajendra Singh Shekhawat Attends Closing Programme of Observance of 350th S…](https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sd1FROUZ3aDhsaXQ4ZlRyV1F2bEpmWFk1ekxHUGd4VE0weEwwNWZIdk44Z0FCdDdtWVN0UV9Mb2t2eXMtaXRSV19HeVZuRUlpRFl5SUNrRmN6cUZnczRyakxLZFotQk9xRk9mRHpBZk5RWEljOEhVZDF5bWE?oc=5) — _pib.gov.in_
+- 2026-11-26 · [Three Antiquities Repatriated from USA and Netherlands Handed Over to Tamil Nadu Police by ASI](https://news.google.com/rss/articles/CBMifkFVX3lxTE5MdDc3YXNJNUliMjZpN0hsMm9QU3RLNzh6MF9wMWk5RzFOLVNOUXY5T3gzOWxOQ3phdlFnZHBwRHMtQnEyeUhYbVJ5T2FYWS15Skhacjd5YXF2TVp4VDZjd2hiekUxMEJzbWp2dW5oY2EwTTJBX1hMT0V1WUh6UQ?oc=5) — _pib.gov.in_
 - 2026-11-27 · [New museum to have tech-based crowd management system; restoration work in full swing at North Block](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXE2UEpneElib3B0RnpObGJJYWl3bG9EcFJXTTM4ekpENWVzUW4tdzN0NnVuUmszTTFIbjJzZVRVSHNrNXhBQjBvbWMyRkxVTF93clhlRkZlaV9kNnlkd0ZnY2tUMlJSSzRsUzhPb1M1VmNyaXZaUFJQOWEwNi0zRS1yd0t5N3A3V0JvbVVHNXpIcjFQRzdZbE1OSjhQTTFRNVJMck9BQk05NjdXSGc3WC0wdjhaNHdVS0VYTDEtelF4SFU?oc=5) — _DD News_
-- 2026-11-27 · [6th Edition of ‘Creative Minds of Tomorrow’ concludes at IFFI in Goa](https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9Kbm9yMldJdTgwVnVpa0tWZXpHd3hJMHRkRGE1aXJGR19vbWR1R2pHdmw2Qi1OWS03NGdlYVJuMmtMYmt5bWJMLVRVWk5hcmZzeWVCS2Y1X3NBbTlJVWVkeWkxZ3RnclBFYzkwTUFqZXQtZDhBdXVWWDJINGlnWGRVUnI0eTFCVVlmMFRwNTlDRGQyOHRTMnhydlZqWTBIdW5KcFVyaWtObmw0MDNlS1FrYUdvckZXUHZYMUJkMkJ1YW5LVTBV?oc=5) — _News On AIR_
+- 2026-11-27 · [IFFI evenings bring cinema, culture and creative exchanges to Goa](https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXBNR2ttVk8tUXgtTmZhWkhPUXBOV3NJRDhGWGZ2ZXM5SGNKTG5XY2lhNGpBLTJ6QUs3dzgwSjVXZEhHMzJSWTNmU0tDTTI4c21vbHRwZVA0eWtrTWpyY0Z3UTBpdVdqX1NOQmltQ3l6dDh5N0dUcVU0dXFwb19XOEJQcmhMdU04UFZxR0oxM1FzbjZY?oc=5) — _DD News_
 
 [Open the Arts & Culture tab →](https://subhadeep998.github.io/India-Development-Dashboard/#culture)
 
@@ -123,10 +123,10 @@
 
 <sub>Food security, farm output, nutrition and farmer support.</sub>
 
-- 2026-11-26 · [Union Health Secretary Calls for Strengthening State-Level Regulatory Capacity to Ensure Safer Food and Quality Medicin…](https://news.google.com/rss/articles/CBMifEFVX3lxTE5xRDktNHNNQmFsWkU1aGpmLWhocGhMVTU0YnB4VFZWZWhTUXc3aGt4NURmLTFDaW1QamFZR25uNDllTmt1OWRjd3BhVGhwZzQyU3VKS1RBcWNPSmdqTEp3VkpsNkNKdjZGeEFoSnFBazhqNUdvam9Wak81V3E?oc=5) — _www.pib.gov.in_
-- 2026-11-26 · [Agriculture Pavilion in IITF 2026 Witnesses Massive Footfall](https://news.google.com/rss/articles/CBMifEFVX3lxTE9zVjB3dGlBTUdlMlV0T0E3V3VTRTlLTjdsSTZzcVpIMG9pVm9Mb0kyLURfNnBPUk9KYi12MmFLUE5KZ3VIZGtscW9GR0JSU0lnWUtVSE93bVdMNzBIbFJrWHhPMWJiX3NSWm14azJVSHJ1TFZVbFk0UHlGZDI?oc=5) — _pib.gov.in_
-- 2026-11-27 · [Sustainable agriculture key to developed India by 2047, says Om Birla](https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkN4di11VWhXY1VJYTlybVJ0Q0QwWXZBd3VGeHVHbnZDVUpnZy1lOEJlVXI2X3gtU2dYSXk1Zmw3T2R2ak5ad3hnZzBlT2J6V1hhVlREaTFyMEp2WG9KR0czMmEtaUVfX28wOEwxa0xwUkFzaFRETVBYNjJJTU9vTDJDTHNMVGhjeExTbTIzZGlBMDFDTFFzN2FB?oc=5) — _DD News_
-- 2026-11-27 · [India has lifted 50 crore people out of extreme poverty through whole-of-government approach, says Agriculture Minister](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPY3BDLXh0QVkyMHh0aHFJbVBoV3I3TXN5em1pQkZfOFpMRkFlRDMwaVl0eHVkLW81d3lXNDVOU21kMFVZbTBNV3dzMVRCQ1dLLU84WlppWWNaaUFlVW1PM0ZIZlljSTJNMGN0WTYzRDJNOG5ldG1EQjhuc2hHLVFtNWdtRm9jcVpaY2xDWnNGOUszdFE0TmQxYXJHdldrbHg2SGJvZUFES0hOZ1o3YXprdERZWEJDcW05bDd0bHhjX01rOXg1Yk0wazItSnpjVlpDUFBaSG5RbDJCSFM1?oc=5) — _News On AIR_
+- 2026-11-27 · [GRSE delivers Vindhyagiri, the third and final Advanced Guided-Missile Frigate of the P17A series to the Indian Navy](https://news.google.com/rss/articles/CBMiakFVX3lxTE1xWTdGM1dfWUNmYzFodElHajhXd1FlTDAzNU1lc3hwSmUtc1dGQzdQdm9KRXQtVzNQRU5Bb194M0NYRC1UWkdOZ3JEQXZHNWd3QWNrUHhlUGM4OHVuMXduSWk5c3RDQWh6UkE?oc=5) — _pib.gov.in_
+- 2026-11-27 · [PRESIDENT OF INDIA GRACES THE VALEDICTORY CEREMONY OF THE GOLDEN JUBILEE CELEBRATIONS OF THE VAIDYARATNAM AYURVEDA COLL…](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zbUM1bnhpckJ4eUw1NEZ5ckpHZmNaOVAxNE5CYzdDUHR4OUxYc1RDZ2QwTWFLcU5CemR1Mk15YWltNUJXc1F1eWljb2lab05mSWk5dnFwbS1QcW5pS2loRXpPd0Rlek5EdzVv?oc=5) — _pib.gov.in_
+- 2026-11-27 · [Finance Minister Concludes Pre-Budget Consultations for Union Budget 2027-28](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSXBQSEIzcnZsaTdOSkM0bTNXakRMS211eGM3bTYxV0ptZ1NWbHAwNWZfeVk0Z3BuTWt4T0RpNF9ZeEU1OTRpZHJ1dUoxeW9TcndzcElSMFlSNW96cmZ0eDFZV29CTWpTVmNIU3poRGVTS2pqNmt3M0ZnRDBxTWs1M2s5LTl0aXBPR1czeC1LT2RXV1ExMmJjSlpwenRWbVlyODl2Tg?oc=5) — _DD News_
+- 2026-11-27 · [MP govt presents Rs 4.38 lakh crore budget with focus on women, farmers, infra](https://news.google.com/rss/articles/CBMipAFBVV95cUxPeTluRzhxdG42XzhWUF9IY3FvMG1zWEZ6RHp1bkJtc2hINlI4VEZoUzlIYVd4TVpLVGROaUZlYlBDR2s1QXdCNHBSQWJzbU9YY0NVczdTNlMzNmxobG9KN3pSXzZoR1ZwTmRJQlFxZVVfVm9MTG9QZ3M4ZGQyQ3ZOSk5SWG4weWlNNjNJVlo0bXdWWlptTGhTaWwtd3dCNTR1TG1MYQ?oc=5) — _DD News_
 
 [Open the Food & Agriculture tab →](https://subhadeep998.github.io/India-Development-Dashboard/#food)
 
