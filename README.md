@@ -33,7 +33,7 @@
 |:--:|:--:|:--:|:--:|
 | **US$ 3.96 tn**<br><sub>2025</sub> | **7.6%**<br><sub>2025</sub> | **US$ 2,760**<br><sub>2025</sub> | **7.0% (2026)**<br><sub>IMF WEO</sub> |
 
-<sub>Last refreshed: 28 Nov 2026, 08:54 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
+<sub>Last refreshed: 28 Nov 2026, 15:46 IST · Annual figures in current US$ from the World Bank; the forecast is the IMF World Economic Outlook.</sub>
 
 ---
 
@@ -68,10 +68,10 @@
 
 <sub>GDP, national income, growth, inflation and investment.</sub>
 
-- 2026-11-28 · [India's Defence Strength Powering National Security through Self-Reliance](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSFAtcXlILUJRaHdoSUwtVloydmVja21qQ3FlYVgzV3lrWHNYMjhYcjFtcEg0VTJRS3ZnTkt0c0g2cnRmTS1BR09RWWdOTTJ4dWs4ZHJfU0JtMnVJS0kyb0tuVVplRUNLc3Z6MUh1TXFCWTJ2dTNV?oc=5) — _pib.gov.in_
-- 2026-11-28 · [Financial Inclusion in India: Banking Every Citizen, Empowering Every Household](https://news.google.com/rss/articles/CBMieEFVX3lxTFB2X2JHSmV2VlVfX2p5eVROR0NwNnhnT09nNE1HYXBWenNsNGRsQkNGaHF4aVVVTlBZZGEzcGs5WUMtWU1WRGRzbGoyYXBPR3NkQXFHcXh3djd5bktmQl94Q1VLZnN4Zm44ZFBWc2lLOFVyaDM5SzJ6MQ?oc=5) — _pib.gov.in_
-- 2026-11-28 · [PM Modi Shares Devotional Chant to Lord Murugan Amid Thiruparankundram Deepam Row](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2sxbC1PUHppeEZmcE5vcVZiNXJjU3VtMWdrc25wb2xvS0xPNnVrYjZBVW0xTFc3aXBuWkVGOGN0SjZkYnNuR1MzSlowZ2RDbTF3Tnl0Zkh6NWFaM0pyRGRiRlA0RG5ldFlKcHB0dWQ0WU5SY2lsY1k5U081NUNvdDU3MnBXdkw3Z3VHUjZ2Z1dBTjNQUmFYUXJsSGZXTnpzTUVpYTU4d291MG8?oc=5) — _DD News_
-- 2026-11-28 · [Lakshadweep and Andaman & Nicobar Islands to drive India’s Blue Economy push through tuna, seaweed and ornamental fishe…](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQW0yb004aUd4RlJwU0JxNVJTMDVSbDRfazZ1dWZtbnhKQmtWTEhnaW8yN25lTXp6aklBS2xFMFJDRW9sRWNxU0F1My1UVzZ0S3pyMXpubHpYX3FPSnpDYnRadFFMRUViXzFIdXh0X1NaZ3pIQ0xUMDVJVURhTzNqMk5wQWFnMVFoT1FLem9IOWdFTVFhNEotU3ZiQ0EzRG9hOGxRcC1pVGI3eEVHOEJDcC11eVIwSlY4aGx3eDlONDJqemd3cDJ3TzMzSFEwSDl2VzF0dURwME1CSHZvT1E?oc=5) — _DD News_
+- 2026-11-28 · [DRI seizes suspected two litres of King Cobra venom and 3 big cat skins, firearms in Maharashtra; six poachers apprehen…](https://news.google.com/rss/articles/CBMia0FVX3lxTE9YeWdJNFRucFFibWJmam5fekc2cjFiRnpYSm1zaXVUMUphNFNkRHVydFNCVHZzOFVvTjFkcDBmQlRkMnNqYkVxNmd1b20zNElFeVoxVU5BQ18wOEJKSHJRQVdadFZtZmFHYlAw?oc=5) — _www.pib.gov.in_
+- 2026-11-28 · [Commerce Ministry Organises Series of Workshops on Opportunities Arising from Free Trade Agreements (FTAs)](https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYWdOcUNsbW9xV0ZWRF9MOXJ2Q29yeEtTakwyODVNbXZQQ0czU0dXLXpJUmo3TEVzQ21YejlUZ0JMams3UnU5Z0xfTmFzdjR3WEg0ZzJiNDZ1V21uY1AxUnNXcUNZMWU2YkFZ?oc=5) — _pib.gov.in_
+- 2026-11-28 · [President Murmu to visit Mizoram, Nagaland; attend varsity convocation and Hornbill Festival](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1IxMGtpOXJwZnozMFBISnJLYmtSSkNOSmxwRXBJdkZSZ0pCOUZhTE9HaHM1U2QwNU5XU1NhVlF5ck52WXViMkJtd2JxRWtWWFR5LTM3YWVHcy16Z1JqY0hTTXd6N19zcjZFRXR0WHVReVl1dHNBTGNOU2NqbHNkcWczX0JYaEluRHgxVmZNQkJ6dFh0TTdILWV2LWJuQmhYazNROUJCRWNwcTJON05OZnVRbUNnelE?oc=5) — _DD News_
+- 2026-11-28 · [Retail Inflation Rises to 6.09 percent in October, Food Inflation at 8.94 percent: Goverment Data](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTEdTT2Y1Ukdubnl3MndIVEJGN2tjanpjNVBwTEFNbkx5SnlTVG5DaXo4aWhtcmxmNmNmdmFLUmdOcEUwN0tQVURHYjdVSUFDZktSeElqMXdEaEhYYms4cHpuNW1COV90UURuc3p1aHBJenJVczB5Q09aWjhCZGJnUG4xOE1zWnZoVjRubHQ3LVVyLTZXaVozRm51MXl0OVJscUROM0NHSW03NTh1cjFMV0ttdm50RWFWRWJkVDJn?oc=5) — _DD News_
 
 [Open the Economy tab →](https://subhadeep998.github.io/India-Development-Dashboard/#economy)
 
@@ -80,7 +80,7 @@
 <sub>Manufacturing, industrial output, structure of the economy and infrastructure.</sub>
 
 - 2026-11-28 · [India's Defence Strength Powering National Security through Self-Reliance](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSFAtcXlILUJRaHdoSUwtVloydmVja21qQ3FlYVgzV3lrWHNYMjhYcjFtcEg0VTJRS3ZnTkt0c0g2cnRmTS1BR09RWWdOTTJ4dWs4ZHJfU0JtMnVJS0kyb0tuVVplRUNLc3Z6MUh1TXFCWTJ2dTNV?oc=5) — _pib.gov.in_
-- 2026-11-27 · [Telecom Manufacturing Zone, Gwalior Gains Momentum with Distribution of Letters of Intent to 25 Companies](https://news.google.com/rss/articles/CBMifEFVX3lxTFBuMnk4Q0dFTDRlSk9Ra1AxV25ycHhNY1FqNEtfeTZ5SFhYRGRGWjQzV1M2NVY0d250ZDBrck92YUI2R3dLUnZiQzRQNkNSS0VOMDV6Vjh5WlpWajFXVEFKemw2Uk5pdmJabzQ0RVpqQVdxU3FGWjUxN2s1b3o?oc=5) — _www.pib.gov.in_
+- 2026-11-28 · [Commerce Ministry Organises Series of Workshops on Opportunities Arising from Free Trade Agreements (FTAs)](https://news.google.com/rss/articles/CBMia0FVX3lxTFBFYWdOcUNsbW9xV0ZWRF9MOXJ2Q29yeEtTakwyODVNbXZQQ0czU0dXLXpJUmo3TEVzQ21YejlUZ0JMams3UnU5Z0xfTmFzdjR3WEg0ZzJiNDZ1V21uY1AxUnNXcUNZMWU2YkFZ?oc=5) — _pib.gov.in_
 - 2026-11-28 · [India’s Agricultural Exports Gain Momentum, Led by Basmati Rice, Processed Potatoes and Corn](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTFpbVlxQ2YwaGU0WTgtNlBfVG8tRWZvS3dycExRRDgwUWR4dnl2OWE4bnYyYU5BeDJLaE5SVlRZOGttaW0xVHpHMFlZR0tCSkxZYTFSazNCRlllTDJNQU9SVWowdWtzM0J0T0ZUdTN0RHJqYXNJNlE4QnR4Rlh0YUlBdWtmcDVBS3FjLU1VYmZNanVvVFJLMUpiUk9uamhveldzUVlWbjQ4bk9MdDQ0aFdCeEM3dw?oc=5) — _DD News_
 - 2026-11-28 · [Centre proposes amendments to drugs rules to ensure qualified personnel authorise drug batch release](https://news.google.com/rss/articles/CBMixAFBVV95cUxOTnJXdTF5NWppeXBGMUFwRUxmUE9jeEZ0QzNfdjNUMFl0dEx6RzJ0aEN6REdKN2RZQjhvbWI3dnNVS0lEMWRFQnFIcFdyVFlTOTBqM01lUGRURW53bU5oTFNaQkI1Vm12Mm93OUx5SFdsZGVpcU1sYUZUcmpZNFljckdEaUU5ZVB6WkRQMzhtRWd0UzR2bDF3T255SEtkNnVrUTVaNFpybEdMWmVneEg4WFZZR1lwUnhWRk5mMnctY093MnFK?oc=5) — _DD News_
 
@@ -91,8 +91,8 @@
 <sub>Emissions, forests, clean energy and air quality.</sub>
 
 - 2026-11-28 · [Strategies to Protect Farmers from Climate Change](https://news.google.com/rss/articles/CBMiggFBVV95cUxPejRjQ0wxQWNxTUN1a05aTnlteW5ZVEthd19nUGY1SlVFd1NJUUpmcUF6TWlHNXRublFHLVM2NlNtcnRDLUwyTHZFYTBkUVVfSXNPaDBJRzZkNTJUdEdvTFZkTEFTbVBqQ1FkUzgzMDlJUE1raXJ1Z0QtQjh6NVppTVRR?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [India’s Renewable Energy Journey: Powering a Cleaner Future](https://news.google.com/rss/articles/CBMifEFVX3lxTE1YMkhNLUFqcUc0d3VxaDlweW9lQVRzdEFwd3h0bmJyZHhjQk54MlYtV2xEazRES0NMSlNrZk9HLVRCRUpWSjRDdHdjbTdHandWZUt5clk1SlFvTlFwY3hnS2cyTURMU3hGSTBLQ1owY3pQd1pzOHBGSmsxVWY?oc=5) — _www.pib.gov.in_
-- 2026-11-28 · [PM Modi Shares Devotional Chant to Lord Murugan Amid Thiruparankundram Deepam Row](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2sxbC1PUHppeEZmcE5vcVZiNXJjU3VtMWdrc25wb2xvS0xPNnVrYjZBVW0xTFc3aXBuWkVGOGN0SjZkYnNuR1MzSlowZ2RDbTF3Tnl0Zkh6NWFaM0pyRGRiRlA0RG5ldFlKcHB0dWQ0WU5SY2lsY1k5U081NUNvdDU3MnBXdkw3Z3VHUjZ2Z1dBTjNQUmFYUXJsSGZXTnpzTUVpYTU4d291MG8?oc=5) — _DD News_
+- 2026-11-28 · [Commerce Ministry Organises Series of Workshops on Opportunities Arising from Free Trade Agreements (FTAs)](https://news.google.com/rss/articles/CBMifkFVX3lxTE1VVlhlTVpPcnRTcmhxcTc4YXU5OG1Ea3NxQU9vMkhCd3VtZDk4aXQzOG9rb0dsNWNYNVpMMEtGNnVFVUIxM2doNmdjdXkyUlVfOUFmOG9wckNxekg0emM5WDB5S19HazI2dFUwVm00Nnh5VW5QSC1VZERiZmZ6UQ?oc=5) — _pib.gov.in_
+- 2026-11-28 · [President Murmu to visit Mizoram, Nagaland; attend varsity convocation and Hornbill Festival](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1IxMGtpOXJwZnozMFBISnJLYmtSSkNOSmxwRXBJdkZSZ0pCOUZhTE9HaHM1U2QwNU5XU1NhVlF5ck52WXViMkJtd2JxRWtWWFR5LTM3YWVHcy16Z1JqY0hTTXd6N19zcjZFRXR0WHVReVl1dHNBTGNOU2NqbHNkcWczX0JYaEluRHgxVmZNQkJ6dFh0TTdILWV2LWJuQmhYazNROUJCRWNwcTJON05OZnVRbUNnelE?oc=5) — _DD News_
 - 2026-11-28 · [“Very salient”: UN climate chief backs PM Modi’s remarks on clean energy cushioning India against oil price shock](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSkt6dnJ1cWlqd1QyWGZSNmtjOWNMWkdHVFJWLTFvNVBUXy1HUUhGMDN1VF9oM0FSR3d5OTdVbDYtSTdLVXlPWGRSbno5bVRqcU5yanpIZ3lkVjFHMmRSRWl4bVF4d25KLXMtdFNjbzgxSkV5UlFFc1FYQ1NqS3VDeGp2YW52QUtueGJYQ3RZcW41QVA3OHZhVVdDNENMWmZzcWh5LXZjbVRuUUdwcFJlUE9CZzBWU2NUZVFPY1lmY2JYbFVfLVBKUDlkTDBzZklt?oc=5) — _DD News_
 
 [Open the Environment tab →](https://subhadeep998.github.io/India-Development-Dashboard/#environment)
@@ -102,8 +102,8 @@
 <sub>Education spending, enrolment, literacy — and where to apply for scholarships.</sub>
 
 - 2026-11-27 · [Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tamil Sangamam 5.0](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVC1POFQyR09MU0dBUFpja2JoQUx0cDI1bTNiZFAxZV94R2hZSVAwaDMzeVNlckhxaUFMR0JyWndtUW1kOGNOd0JFMkRtRHdRdmJ0R3lXZXJNbzc3SVlsUFlLaVRiMkxJazZQcjZqSHVOcTJJNUxGeVJaR01nSHp4VmtB?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [National Overseas Scholarship Scheme for Scheduled Tribe Students](https://news.google.com/rss/articles/CBMifEFVX3lxTE5PNGhIUllXcmtGZWdiWkdzV09DNk9zQ25ZQ1JIOHlCYUMxTDlOWWtGMnJnT2lJVFUtX1lydHlKNG9LWVJEQnJxS0Q0ckZvMmFLbjY2SlpBeTIxMnZqdTV0UkE0Q050d094RUVYSU93NlpZWEtwb0JEa0t1Szc?oc=5) — _www.pib.gov.in_
-- 2026-11-28 · [PM Modi Shares Devotional Chant to Lord Murugan Amid Thiruparankundram Deepam Row](https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2sxbC1PUHppeEZmcE5vcVZiNXJjU3VtMWdrc25wb2xvS0xPNnVrYjZBVW0xTFc3aXBuWkVGOGN0SjZkYnNuR1MzSlowZ2RDbTF3Tnl0Zkh6NWFaM0pyRGRiRlA0RG5ldFlKcHB0dWQ0WU5SY2lsY1k5U081NUNvdDU3MnBXdkw3Z3VHUjZ2Z1dBTjNQUmFYUXJsSGZXTnpzTUVpYTU4d291MG8?oc=5) — _DD News_
+- 2026-11-27 · [National Overseas Scholarship Scheme for Scheduled Tribe Students](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hcjJCR0tySUt1a0dCejVzazJOeXRVWHRPcXdVUC1QV24ybVljd2NNbUNQWmxOdVhsRTdiR1ZhN3g0b1owUHV6UzJMR0NsdkRydU5tTXhzT0FiWjMycDNvTTdiOUNYLXQ4X2JkT2lja3VuSlowcDlGR3NZVl8?oc=5) — _pib.gov.in_
+- 2026-11-28 · [President Murmu to visit Mizoram, Nagaland; attend varsity convocation and Hornbill Festival](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1IxMGtpOXJwZnozMFBISnJLYmtSSkNOSmxwRXBJdkZSZ0pCOUZhTE9HaHM1U2QwNU5XU1NhVlF5ck52WXViMkJtd2JxRWtWWFR5LTM3YWVHcy16Z1JqY0hTTXd6N19zcjZFRXR0WHVReVl1dHNBTGNOU2NqbHNkcWczX0JYaEluRHgxVmZNQkJ6dFh0TTdILWV2LWJuQmhYazNROUJCRWNwcTJON05OZnVRbUNnelE?oc=5) — _DD News_
 - 2026-11-28 · [India, UAE Discuss Expanding Cooperation in Education, Skills and Research](https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUNLZ2VxT2oyLXdSNTBwUUU2N1lvamhJOGpQRlF0VExzQ2tpcnRPREw4My00MkZFeGtmVXhYcnppUWoxdG1IUW1GNWN0Tmc5UjByS3FVYV9xLTNTVlRtcTVIaDcwV2l5REI0U19YcGNvRHhaMEdrb2tKUTJ6WkxBZUJjN0VyS2p3MWU2VmhCUGktaVRqdElSUV94bmctbE0?oc=5) — _DD News_
 
 [Open the Education & Scholarships tab →](https://subhadeep998.github.io/India-Development-Dashboard/#education)
@@ -112,10 +112,10 @@
 
 <sub>Heritage, the arts, cultural scholarships and tourism.</sub>
 
+- 2026-11-28 · [PM to participate in Closing Ceremony of Birth Centenary Celebrations of Bharat Ratna Dr. Bhupen Hazarika on 29 November](https://news.google.com/rss/articles/CBMia0FVX3lxTE5UMjM0VGJWbDlXMXFocnU5WEJJcDd4MDZxWnBZdWxkQXRlS3hnR1RJd05QVzV4X09JTmJaRlhkSjV6WVJab2J1OWdjTUxxTGdUMmx2b1h5aGRjam5sLS1icWJCWnlzWW40UGsw?oc=5) — _www.pib.gov.in_
 - 2026-11-27 · [Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tamil Sangamam 5.0](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVC1POFQyR09MU0dBUFpja2JoQUx0cDI1bTNiZFAxZV94R2hZSVAwaDMzeVNlckhxaUFMR0JyWndtUW1kOGNOd0JFMkRtRHdRdmJ0R3lXZXJNbzc3SVlsUFlLaVRiMkxJazZQcjZqSHVOcTJJNUxGeVJaR01nSHp4VmtB?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [Governor Indra Sena Reddy Nallu inaugurates “Ashtavadhanam” at Tripura Central University](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KN1puM3MtMWF0MzZFRHdpRHVJVUN5Z2ZWZGxKdlFSSTJDT0hYVWVzVHJNbXR5QzVvRDBEMF9mN0RYdU1ieERRc2FIc3NTb2wyNm5iRWdqUFB2RFIzNTgtMVRuRWRCaHU2?oc=5) — _www.pib.gov.in_
-- 2026-11-28 · [Embassy of India Celebrates Shared Cultural Heritage between India and Azerbaijan through Art and Literature](https://news.google.com/rss/articles/CBMizwFBVV95cUxPbExjajlWUHZXektLSTExRzROeUZ0My1BOWIzbTgwd3pRYU9RdXhIZWk2MWczbXpkZFN6UVNOdXU3VDY3dEJiLTA4RzhjWkpHNHRkTkI4bW1POFlkLVhYb2Z1MlVpSkxkbzZNdXZOWGFwaDJCdURNcVZnbElBWjA2Ynhfb0phUXpXMHZnUDhIYmNFRHRGWGEwUWlWN1E1R1JTXzV1ZjNtRVZxWGVqbTlBMW15Q25Idkk0RGJlc2hMMUxDQ3VLbHhrd1doeVhCTlk?oc=5) — _DD News_
-- 2026-11-28 · [PM Modi extends Diwali greetings, says festival symbolises resolve to overcome darkness](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWHZsZTNWSFpjNzN1dTh2a2pTcm9GOTd2UTdDblhNNjAxWlBTbVpWdEZnTWlJSzdPNWFiVzcwZUpPX0NrX1ZSRk8wbF9hQkdfQTUyc2hFVnNqNUR5Y1FSd3VSNTJpdG53RHcxcUdYLVRKYXYzRVhEeGZTbWdZLUNKQ3BNd3RYUE81U3B0SVNpQnQzZDNVZjBITk83UTBhX1pUekpmX1NyZmQ0X2Z6MlZvVndR?oc=5) — _DD News_
+- 2026-11-28 · [President Murmu to visit Mizoram, Nagaland; attend varsity convocation and Hornbill Festival](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1IxMGtpOXJwZnozMFBISnJLYmtSSkNOSmxwRXBJdkZSZ0pCOUZhTE9HaHM1U2QwNU5XU1NhVlF5ck52WXViMkJtd2JxRWtWWFR5LTM3YWVHcy16Z1JqY0hTTXd6N19zcjZFRXR0WHVReVl1dHNBTGNOU2NqbHNkcWczX0JYaEluRHgxVmZNQkJ6dFh0TTdILWV2LWJuQmhYazNROUJCRWNwcTJON05OZnVRbUNnelE?oc=5) — _DD News_
+- 2026-11-28 · [Jitendra Singh launches curtain raiser for IISF 2026, calls for taking science beyond laboratories](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0xIMktRQURMUWJCVHBPUUZ4TUNvTDNSTHh1elNNeS1YUVlLZnVVZkZRcGJmaUZUQ0NCTDIwYTB2cUx6UjM2bGhrdW5aUGRhNHlRaDcyaFUtUlVaTlg0ZEZyWXFEbnZfRlJ3NGMybmI5ejRORjJYeG1EY3ZmM3BIcUpHd0dpWDQya0FNQ1RCblVaT0IzX3BoZnNaTDllNWJkVjIwRUxJNUFEUTBhT3NaMHNNQVZNNHV4ZmxydDlpN0g?oc=5) — _DD News_
 
 [Open the Arts & Culture tab →](https://subhadeep998.github.io/India-Development-Dashboard/#culture)
 
@@ -124,9 +124,9 @@
 <sub>Food security, farm output, nutrition and farmer support.</sub>
 
 - 2026-11-28 · [Strategies to Protect Farmers from Climate Change](https://news.google.com/rss/articles/CBMiggFBVV95cUxPejRjQ0wxQWNxTUN1a05aTnlteW5ZVEthd19nUGY1SlVFd1NJUUpmcUF6TWlHNXRublFHLVM2NlNtcnRDLUwyTHZFYTBkUVVfSXNPaDBJRzZkNTJUdEdvTFZkTEFTbVBqQ1FkUzgzMDlJUE1raXJ1Z0QtQjh6NVppTVRR?oc=5) — _www.pib.gov.in_
-- 2026-11-27 · [Vice-President Shri C. P. Radhakrishnan to inaugurate the fifth edition of Kashi Tamil Sangamam 5.0](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVC1POFQyR09MU0dBUFpja2JoQUx0cDI1bTNiZFAxZV94R2hZSVAwaDMzeVNlckhxaUFMR0JyWndtUW1kOGNOd0JFMkRtRHdRdmJ0R3lXZXJNbzc3SVlsUFlLaVRiMkxJazZQcjZqSHVOcTJJNUxGeVJaR01nSHp4VmtB?oc=5) — _www.pib.gov.in_
-- 2026-11-28 · [Explainer: What is regenerative agriculture and why does India need it?](https://news.google.com/rss/articles/CBMimwFBVV95cUxOejA5TFNMQkhGVW5QXzh4LVdOTHV0bVYySDRRSGV6dUFZNUNVd0o4b3cyaFA1aFpwTGJGQlF0SmhZTmw2cFZqclR0aUZacDlaVkRPSkt1SEF2YkhObUp6MzlDZ0NVeWhHZ1l1a0dSdWV5cTBaay1zTE8zeUZrMnI5WE01MHk1RW9FOVlTZDVHc1haLXp6d3hIcTBhWQ?oc=5) — _DD News_
-- 2026-11-28 · [Assam flags off export of GI-tagged Karbi Anglong Ginger to London](https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1p6T2pfS3J2ZjRPUmhfZ25zbHZLejVCUnNGYXNNanE2UlpiVWltVUozTjBnR3lYeGU4bmZJc0dkT3lfcnN0Y1FPMGpVYXN2ZHlJQl9Fd0VONVJQR1VyY1FfNFN6a3BxQnVLUTZhYnhjOWo3R3VBNkowdVFQVnp6LWdDNWt3NUZKSU8xcnNpWmpJc3RyZ3NF?oc=5) — _DD News_
+- 2026-11-27 · [Secretary, DoLR Reviews Implementation of WDC-PMKSY 2.0 and World Bank-Assisted REWARD Programme in Odisha](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRa2w0T2ZvR3o3RFJTMkFuYXRRN0ZPRmgyeHRNN0NNZjN0ZnJZMGxrV0lBM3N1YjFzUE9GRW5wcnY0akkzVmNqVG5HRlg4Qm5yRlpGUE0yRVJncnQ5cUdYMkhtclhyUnBj?oc=5) — _www.pib.gov.in_
+- 2026-11-28 · [FSSAI clears second prosecution against Bisleri in a week after bacteria found in Bengal unit sample](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDBsQkdpcmhTRENUS0JkT0FOSXQtUEtERUFCMVc3RFhzYkZ3MGlobk0wNm9tX2pNZ2tuaERPWjRsTnlhckNfV3g0VE14Tm9LYUFILXJxelVVTjVpcVhpdXV5WFNoRzZWUDhEU3ZYakJrUFg1X3FfS3dCMnpaa3NTZ2lTX0F4MWk4bDZsTGtFaWJXZVpmNlR5anh5M1ZGcWN6LW9VeF9BRjUwTnlYNjJiRkU0a3pGdkYtaTRPOS1rRzdTbGI4?oc=5) — _DD News_
+- 2026-11-28 · [Shivraj Singh Chouhan to lead ‘Sapt Dhara of Shakti’ pledge on August 18](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXRIYkQxUVFUMjd0ci1leHp3bE9sd3J4V1RuNHJaR182aHh6WHlONFlHR0hOZ1dhTUF0dEtVTk1xemI3ZWpla2dnWm4wMGxtNDBpaW0wZWNfcE5IcG9WUGtPWWxzYzdXWnRpMlIzZndnRUt3eW1Eb2EtYkFwNlpZX1RvZHJIUkVrS2ctTFFkaEJKTmV4cGdjRnBqT3E?oc=5) — _DD News_
 
 [Open the Food & Agriculture tab →](https://subhadeep998.github.io/India-Development-Dashboard/#food)
 
